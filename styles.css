@@ -1,0 +1,26 @@
+/* styles.css */
+
+/* Add styles here to customize the appearance of your app */
+body{
+    width: 100%;
+}
+.texto {
+    text-align: center;
+}
+.table{
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 80% !important;
+    max-width: 80% !important;
+}
+input, button{
+    border-radius: 50px !important;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+td,th{
+    text-align: left;
+}
+h1{
+    margin-top: 100px !important;
+}
